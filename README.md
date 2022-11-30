@@ -9,14 +9,14 @@
 
 - 📫 How to reach me **gonza_gonzalez28@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📧 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gonz288/"><img src="https://img.shields.io/badge/-Gonzalo%20Agustin%20Gonzalez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/gonnz28"><img src="https://img.shields.io/badge/Gonnz28-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="mailto:gonza_gonzalez28@hotmail.com"><img src="https://img.shields.io/badge/gonza_gonzalez28@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Technologies and Tools:</h3>
+<h3 align="left">👨‍💻 Technologies and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?flat&logo=css3&logoColor=white" alt="css3"/> </a> 
