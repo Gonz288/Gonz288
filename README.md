@@ -1,4 +1,3 @@
-![En vivo](https://user-images.githubusercontent.com/111772830/204697117-b0029afc-08b4-4a4d-9109-8b4400cc000f.gif)
 
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">Technician Computing and Future Full Stack Developer</h3>
