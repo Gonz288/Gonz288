@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gonz288/"><img src="https://img.shields.io/badge/-Gonzalo%20Agustin%20Gonzalez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/gonnz28"><img src="https://img.shields.io/badge/Gonnz28-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="mailto:gonza_gonzalez28@hotmail.com"><img src="https://img.shields.io/badge/gonza_gonzalez28@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
