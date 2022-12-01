@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/111772830/204940837-6bfa8357-f35d-4e00-a952-06df1438b55f.gif"/></p>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/111772830/204941111-e44d6138-a248-467a-b7e1-69691a0cabb7.gif"/></p>
 
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">Technician Computing and Future Full Stack Developer</h3>
