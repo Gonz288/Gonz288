@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">Computer Technician and Future Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Back-End and English.**
+- 🌱 I’m currently learning **Back-End, Ciberseguridad and English.**
 
 - 👨‍💻 All of my projects are available at [Proximamente](Proximamente)
 
