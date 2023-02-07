@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-End, CyberSegurity and English.**
 
-- 👨‍💻 All of my projects are available at [Proximamente](Proximamente)
+- 👨‍💻 All of my projects are available at https://portfoliogonz28.com
 
 - 📫 How to reach me **gonza_gonzalez28@hotmail.com**
 
