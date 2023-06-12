@@ -1,9 +1,9 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/111772830/204941111-e44d6138-a248-467a-b7e1-69691a0cabb7.gif"/></p>
 
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">IT Technician and Future Full Stack Developer</h3>
+<h3 align="center">IT Technician and Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Back-End, CyberSegurity and English.**
+- 🌱 I’m currently developing projects to improve my skills.
 
 - 👨‍💻 All of my projects are available at https://portfoliogonz28.com
 
